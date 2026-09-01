@@ -1,6 +1,6 @@
-# Word Technical Report Directory Tool
+# ReportWeaver
 
-A Windows utility for organizing Word technical reports. It generates and formats the main table of contents, list of figures, and list of tables while normalizing body heading styles and preserving an unnumbered introduction entry.
+ReportWeaver is a Windows utility for organizing Word technical reports. It generates and formats the main table of contents, list of figures, and list of tables while normalizing body heading styles and preserving an unnumbered introduction entry.
 
 The tool always works on a copy of the selected document. It writes the processed file next to the source and never overwrites the original.
 
